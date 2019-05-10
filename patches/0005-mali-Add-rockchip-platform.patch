@@ -1,8 +1,5 @@
-diff --git a/r7p0/src/devicedrv/mali/platform/rockchip/rockchip.c b/r7p0/src/devicedrv/mali/platform/rockchip/rockchip.c
-new file mode 100644
-index 0000000..fd99554
 --- /dev/null
-+++ b/r7p0/src/devicedrv/mali/platform/rockchip/rockchip.c
++++ b/src/devicedrv/mali/platform/rockchip/rockchip.c
 @@ -0,0 +1,360 @@
 +#include <linux/clk.h>
 +#include <linux/clkdev.h>
