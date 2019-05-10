@@ -2,8 +2,9 @@
 0002-mali-Support-building-against-4.6.patch
 0003-mali-Support-building-against-4.8.patch
 0004-mali-Print-the-mali-version-at-probe.patch
-0007-mali-support-building-against-4.10.patch
+0005-mali-Add-rockchip-platform.patch
 0006-mali-Allow-devfreq-to-run-without-power-models.patch
+0007-mali-support-building-against-4.10.patch
 0008-mali-support-building-against-4.11.patch
 0009-mali-Fix-user-memory-domain-fault.patch
 0010-mali-support-building-against-4.12.patch
